@@ -18,7 +18,7 @@
 }
 /* header & nav title style */
 .header{
-   background: white;
+   background: bisque;
    background-image: url('./images/header_bg.png'), url('./images/developer.png');
    background-repeat: no-repeat;
    background-position: bottom right, bottom left;
@@ -27,7 +27,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title {
     font-weight: 800;
